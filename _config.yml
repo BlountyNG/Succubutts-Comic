@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A webcomic theme for jekyll.
 
 
-baseurl: www.comic.blounty.me
+baseurl: 
 url: / #Leave this, change the baseurl.
 
 # Exclude our ruby stuff
