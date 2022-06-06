@@ -30,11 +30,11 @@ permalink: /:categories/:title/
 ####CUSTOM
 
 # Set default header image
-header: no
-header_sm: images/banner-small.jpg
-header_med: images/banner-med.jpg
+header: yes
+header_sm: images/banner-large.jpg
+header_med: images/banner-large.jpg
 header_large: images/banner-large.jpg
-header_xl: images/banner-xl.jpg
+header_xl: images/banner-large.jpg
 
 ## Thumbnailer taken from https://github.com/chrisanthropic/jekyll-minimagick
 
