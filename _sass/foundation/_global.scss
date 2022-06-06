@@ -60,7 +60,7 @@ $white: #fefefe !default;
 
 /// Background color of the body.
 /// @type Color
-$body-background: #5F6553 !default;
+$body-background: $body-bg !default;
 
 /// Text color of the body.
 /// @type Color
